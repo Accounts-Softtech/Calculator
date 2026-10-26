@@ -1,0 +1,8 @@
+{
+  "name": "GST \u0026 TDS Calculator",
+  "description": "Mobile-optimized automated GST \u0026 TDS calculator with responsive logo design and Android device screen testing suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
